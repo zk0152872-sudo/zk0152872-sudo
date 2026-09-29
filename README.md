@@ -164,18 +164,25 @@ A Facebook-inspired login interface created for frontend practice.
 
 ---
 
-# 🐍 My Contribution Snake
+## 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zk0152872-sudo/zk0152872-sudo/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zk0152872-sudo/zk0152872-sudo/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zk0152872-sudo/zk0152872-sudo/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/zk0152872-sudo/zk0152872-sudo/output/github-snake.svg">
+  </picture>
 </p>
 
----
 
-# 📊 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zk0152872-sudo&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=zk0152872-sudo&theme=tokyo-night&hide_border=true&area=true&custom_title=Zohaib%20Khan's%20Contribution%20Graph"
+    alt="Zohaib Khan Contribution Activity Graph"
+    width="100%"
+  />
 </p>
 
 ---
