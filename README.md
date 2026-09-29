@@ -4,9 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zk0152872-sudo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  &nbsp;
   <img src="https://img.shields.io/github/followers/zk0152872-sudo?label=Followers&style=flat" alt="Followers" />
-  &nbsp;
   <img src="https://img.shields.io/github/stars/zk0152872-sudo?label=Stars&style=flat" alt="Stars" />
 </p>
 
@@ -29,28 +27,28 @@
 ### 🌐 Frontend
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>
-<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/></a>
-<a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" alt="Bootstrap"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
 </p>
 
 ### ⚙️ Backend & Database
 
 <p align="left">
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/></a>
-<a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
 </p>
 
 ### 🔧 Tools
 
 <p align="left">
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45" alt="Git"/></a>
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="45" height="45" alt="VS Code"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="45" height="45" alt="VS Code"/>
 </p>
 
 ---
@@ -59,37 +57,45 @@
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🪟 Glassmorphism Login
+<h3>🪟 Glassmorphism Login</h3>
 
-A modern glassmorphism-style login page built with HTML & CSS.
+<p>A modern glassmorphism-style login page built with HTML & CSS.</p>
 
-🔗 **Live Demo:**
-[View Project](https://zk0152872-sudo.github.io/glassmorphsim/)
+<p>
+<a href="https://zk0152872-sudo.github.io/glassmorphsim/">
+  🔗 <b>Live Demo</b>
+</a>
+</p>
 
 </td>
 
 <td width="50%">
 
-### 🔵 Facebook Login UI
+<h3>🔵 Facebook Login UI</h3>
 
-A Facebook-inspired login interface created for frontend practice.
+<p>A Facebook-inspired login interface created for frontend practice.</p>
 
-🔗 **Live Demo:**
-[View Project](https://zk0152872-sudo.github.io/facebook-login-page/)
+<p>
+<a href="https://zk0152872-sudo.github.io/facebook-login-page/">
+  🔗 <b>Live Demo</b>
+</a>
+</p>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zk0152872-sudo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zk0152872-sudo&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zk0152872-sudo&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zk0152872-sudo&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
@@ -97,7 +103,7 @@ A Facebook-inspired login interface created for frontend practice.
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zk0152872-sudo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=zk0152872-sudo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -105,7 +111,11 @@ A Facebook-inspired login interface created for frontend practice.
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zk0152872-sudo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=zk0152872-sudo&theme=tokyo-night&hide_border=true&area=true"
+    alt="Zohaib Khan Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
@@ -113,7 +123,10 @@ A Facebook-inspired login interface created for frontend practice.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zk0152872-sudo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=zk0152872-sudo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -132,32 +145,24 @@ A Facebook-inspired login interface created for frontend practice.
 
 ---
 
-# 💻 Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zk0152872-sudo&theme=tokyonight&hide_border=true" alt="Coding Activity"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/zk0152872-sudo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://facebook.com/zohaibkhan">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/zohaibkhan">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="mailto:zk0152872@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
@@ -167,21 +172,9 @@ A Facebook-inspired login interface created for frontend practice.
 ## 🐍 My Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zk0152872-sudo/zk0152872-sudo/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zk0152872-sudo/zk0152872-sudo/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/zk0152872-sudo/zk0152872-sudo/output/github-snake.svg">
-  </picture>
-</p>
-
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=zk0152872-sudo&theme=tokyo-night&hide_border=true&area=true&custom_title=Zohaib%20Khan's%20Contribution%20Graph"
-    alt="Zohaib Khan Contribution Activity Graph"
-    width="100%"
+  <img 
+    src="https://raw.githubusercontent.com/zk0152872-sudo/zk0152872-sudo/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
   />
 </p>
 
