@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/zk0152872-sudo/zk0152872-sudo/raw/refs/heads/main/zohaib-profile-stars.gif"
+    src="https://raw.githubusercontent.com/zk0152872-sudo/zk0152872-sudo/main/profile.jpg"
     alt="Zohaib Khan"
     width="700"
   />
