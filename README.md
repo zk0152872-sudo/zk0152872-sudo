@@ -1,8 +1,8 @@
-<!-- ===================== ANIMATED PROFILE PHOTO ===================== -->
+<!-- ===================== PROFILE PHOTO ===================== -->
 
 <p align="center">
   <img
-    src="./assets/zohaib-profile-stars.gif"
+    src="https://github.com/zk0152872-sudo/zk0152872-sudo/raw/refs/heads/main/zohaib-profile-stars.gif"
     alt="Zohaib Khan"
     width="700"
   />
@@ -42,7 +42,7 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🔭 Currently working on **Glassmorphism UI Projects**
 - 🌱 Learning **Modern Web Application Development**
@@ -63,9 +63,9 @@
 
 ---
 
-# 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
-## 🌐 Frontend
+### 🌐 Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
@@ -75,9 +75,7 @@
   <b>HTML • CSS • JavaScript • React • Bootstrap</b>
 </p>
 
----
-
-## ⚙️ Backend & Database
+### ⚙️ Backend & Database
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
@@ -87,9 +85,7 @@
   <b>Node.js • Express.js • MongoDB • MySQL</b>
 </p>
 
----
-
-## 🔧 Development Tools
+### 🔧 Development Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -101,7 +97,7 @@
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
 <table>
 <tr>
@@ -115,12 +111,10 @@ A modern glassmorphism login page built with HTML and CSS.
 </p>
 
 <a href="https://zk0152872-sudo.github.io/glassmorphsim/">
-
 <img
 src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Project-0e75b6?style=for-the-badge"
 alt="Glassmorphism Live Demo"
 />
-
 </a>
 
 </td>
@@ -134,12 +128,10 @@ A Facebook-inspired login interface built for frontend practice.
 </p>
 
 <a href="https://zk0152872-sudo.github.io/facebook-login-page/">
-
 <img
 src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Project-1877F2?style=for-the-badge"
 alt="Facebook Login Live Demo"
 />
-
 </a>
 
 </td>
@@ -149,7 +141,7 @@ alt="Facebook Login Live Demo"
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -169,7 +161,7 @@ alt="Most Used Languages"
 
 ---
 
-# 🔥 GitHub Contribution Streak
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
 
@@ -182,7 +174,7 @@ alt="GitHub Contribution Streak"
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
 
@@ -196,7 +188,7 @@ alt="GitHub Contribution Activity Graph"
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -210,7 +202,7 @@ alt="GitHub Trophies"
 
 ---
 
-# 📦 GitHub Overview
+## 📦 GitHub Overview
 
 <p align="center">
 
@@ -241,7 +233,7 @@ alt="Explore My Repositories"
 
 ---
 
-# 🐍 My Contribution Snake
+## 🐍 My Contribution Snake
 
 <p align="center">
 
@@ -269,44 +261,36 @@ width="100%"
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/zk0152872-sudo">
-
 <img
 src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
 alt="GitHub"
 />
-
 </a>
 
 <a href="https://facebook.com">
-
 <img
 src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
 alt="Facebook"
 />
-
 </a>
 
 <a href="https://instagram.com/zohaib.khan9596">
-
 <img
 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 alt="Instagram"
 />
-
 </a>
 
 <a href="mailto:zk0152872@gmail.com">
-
 <img
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 alt="Gmail"
 />
-
 </a>
 
 </p>
@@ -314,23 +298,13 @@ alt="Gmail"
 ---
 
 <h3 align="center">
-
-💙 Thanks for visiting my profile!
-
+  💙 Thanks for visiting my profile!
 </h3>
 
 <p align="center">
-
-⭐ Feel free to explore my repositories and projects ⭐
-
+  ⭐ Feel free to explore my repositories and projects ⭐
 </p>
 
 <p align="center">
-
-💻 Keep Coding • Keep Learning • Keep Growing 🚀
-
+  💻 Keep Coding • Keep Learning • Keep Growing 🚀
 </p>
-
----
-
-<!-- ===================== END ===================== -->
